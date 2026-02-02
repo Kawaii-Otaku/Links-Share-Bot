@@ -5,12 +5,12 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 # Recommended
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+TG_BOT_TOKEN = os.environ.get("8589743758:AAEB8VeY1x1oFft-wJMiOVGmm8Xn92hOa1M", "")
 APP_ID = int(os.environ.get("APP_ID", ""))
 API_HASH = os.environ.get("API_HASH", "")
 
 # Main
-OWNER_ID = int(os.environ.get("OWNER_ID", "6497757690"))
+OWNER_ID = int(os.environ.get("Kawaii_Otaku", "7598552267"))
 PORT = os.environ.get("PORT", "8080")
 
 # Database
