@@ -39,19 +39,12 @@ ABOUT_TXT =
 ›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a>
 ›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a>
 ›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a>
-›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ProYato</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
-
-CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/animes_cruise'>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
-<blockquote expandable>›› Movies/Webseries: <a href='https://t.me/MoViSeRaXWaR'>MoViSeRa</a>
-›› Adult Channels: <a href='https://t.me/@Flow_With_Us'>Flow</a>
-›› Animes Channel: <a href='https://t.me/AnIXWaR'>AnIXWaR</a>
-›› Pornhwa Channel: <a href='https://t.me/Pornhwa_Zone'>Pornhwa_Zone</a>
-›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ProYato</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
+›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ProYato</b></blockquote>"""
 
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
 # Default
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "⚠️ ғᴜᴄᴋ ʏᴏᴜ, ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ᴍᴀsᴛᴇʀ. ɢᴏ ᴀᴡᴀʏ, ʙɪᴛᴄʜ 🙃!"
+USER_REPLY_TEXT = "⚠️ OHO, ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ELIGIBLE. ɢᴏ ᴀᴡᴀʏ, BROTHER 🙃!"
 
 # Logging
 LOG_FILE_NAME = "links-sharingbot.txt"
